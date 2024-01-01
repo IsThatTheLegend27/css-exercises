@@ -1,0 +1,16 @@
+.pink {
+    background-color: #FFB6C1;
+    font-family: Verdana, "Dejavu Sans", serif;
+}
+#no2 {
+    color: blue;
+    font-size: 36px;
+}
+.pink.no3 {
+    font-size: 24px;
+}
+#no4 {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
